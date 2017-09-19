@@ -2,3 +2,4 @@ Shopping
 =========
 Oats
 Milk
+Yoghurt
